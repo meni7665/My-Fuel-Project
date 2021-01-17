@@ -1,2 +1,1 @@
-# Projects
-My personal project, that i have been working on  
+completed a team project that simulates gas-station management software, based on Client-Server model and creating queries to a SQL server. The code was written in Java. FXML and CSS files were used for UI.
